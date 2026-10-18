@@ -1,0 +1,19 @@
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# Python-Cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Erzeugte Ergebnisdaten
+data/
